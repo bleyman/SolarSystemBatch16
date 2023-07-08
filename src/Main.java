@@ -9,7 +9,7 @@ public class Main {
 
         FeatureSun smoothie = new FeatureSun();
         smoothie.name = "Banana";
-        smoothie.temp = 1564897 C;
+        smoothie.temp = "-155654664897 C";
         smoothie.size = "456789km";
     }
 }
