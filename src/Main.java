@@ -6,5 +6,10 @@ public class Main {
         apples.Sun="1";
         apples.Planets="2";
         apples.Star="4";
+
+        FeatureSun oranges = new FeatureSun();
+        oranges.Name="Say Whaaaaaaaaaaaaat";
+        oranges.size="4564897km";
+        oranges.temp="45679456 C";
     }
 }
