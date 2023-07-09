@@ -11,5 +11,10 @@ public class Main {
         smoothie.name = "Banana";
         smoothie.temp = "-155654664897 C";
         smoothie.size = "456789km";
+
+        Planet2 pickles = new Planet2();
+        pickles.name="Mike";
+        pickles.size="456km";
+        pickles.temp="-789 C";
     }
 }
